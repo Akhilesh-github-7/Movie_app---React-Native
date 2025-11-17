@@ -17,8 +17,8 @@ A React Native mobile application for browsing and discovering movies. This app 
 - **Styling:** [NativeWind](https://www.nativewind.dev/) & [Tailwind CSS](https://tailwindcss.com/)
 - **Backend:** [Appwrite](https://appwrite.io/) for authentication and database.
 - **Language:** [TypeScript](https://www.typescriptlang.org/)
-- 
-<p align="center">
-  <img src="C:\Users\akhil\Downloads\WhatsApp Image 2025-11-17 at 12.46.57 PM (1).jpeg" width="45%"/>
-</p>
+
+![WhatsApp Image 2025-11-17 at 12 46 57 PM](https://github.com/user-attachments/assets/8987eda1-be0f-4614-b0fc-ef81f982e3ab)
+
+
 
