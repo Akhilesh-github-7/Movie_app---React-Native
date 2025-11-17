@@ -1,19 +1,20 @@
 # Mobile Movie App
 
-A React Native application for browsing and discovering movies.
+A React Native mobile application for browsing and discovering movies. This app is built with modern technologies like Expo, NativeWind, and Appwrite, providing a seamless and engaging user experience.
 
 ## Features
 
-*   Browse trending movies
-*   Search for movies
-*   View movie details
-*   Save movies to a watchlist
-*   User authentication
+- **Browse Movies:** Explore lists of trending and popular movies.
+- **Search:** Find movies by title.
+- **Movie Details:** View detailed information about each movie, including synopsis, rating, and cast.
+- **User Authentication:** Sign up and log in to your account.
+- **Saved Movies:** Save your favorite movies to a personal list.
+- **User Profile:** View and manage your profile information.
 
 ## Tech Stack
 
-*   **React Native:** A framework for building native apps using React.
-*   **Expo:** A platform for making universal React applications.
-*   **TypeScript:** A typed superset of JavaScript that compiles to plain JavaScript.
-*   **Tailwind CSS (NativeWind):** A utility-first CSS framework for rapidly building custom designs.
-*   **Appwrite:** A backend platform for building web, mobile, and flutter applications.
+- **Framework:** [React Native](https://reactnative.dev/) with [Expo](https://expo.dev/)
+- **Routing:** [Expo Router](https://expo.github.io/router/)
+- **Styling:** [NativeWind](https://www.nativewind.dev/) & [Tailwind CSS](https://tailwindcss.com/)
+- **Backend:** [Appwrite](https://appwrite.io/) for authentication and database.
+- **Language:** [TypeScript](https://www.typescriptlang.org/)
