@@ -20,10 +20,10 @@ A React Native mobile application for browsing and discovering movies. This app 
 
 
 
-<p align="center" display="flex" justify-content="space-between">
+<div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://github.com/user-attachments/assets/8a533fa9-fda3-4b39-8fc6-9e66fd5a9d75" width="45%" />
   <img src="https://github.com/user-attachments/assets/9a1d6e04-f979-4fff-83ef-60c238ea38fd" width="45%" />
-</p>
+</div>
 
 
 
