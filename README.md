@@ -7,7 +7,6 @@ A React Native mobile application for browsing and discovering movies. This app 
 - **Browse Movies:** Explore lists of trending and popular movies.
 - **Search:** Find movies by title.
 - **Movie Details:** View detailed information about each movie, including synopsis, rating, and cast.
-- **User Authentication:** Sign up and log in to your account.
 - **Saved Movies:** Save your favorite movies to a personal list.
 - **User Profile:** View and manage your profile information.
 
