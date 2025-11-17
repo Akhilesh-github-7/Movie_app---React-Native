@@ -19,6 +19,6 @@ A React Native mobile application for browsing and discovering movies. This app 
 - **Language:** [TypeScript](https://www.typescriptlang.org/)
 - 
 <p align="center">
-  <img src=""C:\Users\akhil\Downloads\WhatsApp Image 2025-11-17 at 12.46.57 PM (1).jpeg"" width="45%"/>
+  <img src="C:\Users\akhil\Downloads\WhatsApp Image 2025-11-17 at 12.46.57 PM (1).jpeg" width="45%"/>
 </p>
 
