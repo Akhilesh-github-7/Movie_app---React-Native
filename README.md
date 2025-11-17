@@ -18,5 +18,4 @@ A React Native mobile application for browsing and discovering movies. This app 
 - **Backend:** [Appwrite](https://appwrite.io/) for authentication and database.
 - **Language:** [TypeScript](https://www.typescriptlang.org/)
 - 
-![WhatsApp Image 2025-11-17 at 12 46 57 PM (1)](https://github.com/user-attachments/assets/e947b940-fbc9-46bb-b377-c7186930bf72)
-![WhatsApp Image 2025-11-17 at 12 46 57 PM](https://github.com/user-attachments/assets/1cfdffe7-4bb6-4c83-8b02-692c1baf7a77)
+![][WhatsApp Image 2025-11-17 at 12 46 57 PM (1)](https://github.com/user-attachments/assets/e947b940-fbc9-46bb-b377-c7186930bf72) | ![][WhatsApp Image 2025-11-17 at 12 46 57 PM](https://github.com/user-attachments/assets/1cfdffe7-4bb6-4c83-8b02-692c1baf7a77)
